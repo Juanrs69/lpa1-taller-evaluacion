@@ -1,0 +1,2 @@
+rich
+# Aqui van las librerias que requiere el proyecto
